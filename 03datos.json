@@ -1,0 +1,17 @@
+{
+            "ejemplos_Json":{
+                "Descripcion": "descripcion de un documento JSON en variostipos de datos y estructuras anidadas",
+                "datos": {
+                "nombre": "Carlos Aguilar",
+                "Edad": 17,
+                "Activo": "True",
+                "Hobbies": ["box","cocina","programar"],
+            "Direccion":{
+                "Calle": "SanIdelfonso 117",
+                "Ciudad": "Escobedo",
+                "Pais": "Mexico"
+            },
+            "Contacto": "Null"
+        }
+    }
+}

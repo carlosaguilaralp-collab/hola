@@ -1,0 +1,23 @@
+"Ejemplo_Documento_ mongoDb":{
+        "Descripcion": "Ejemplo de documento tipico de mongodb que utiliza bson internamente",
+        "DAtos": {
+                "_id": "egrn{bmg{bnmgo{nag{n",
+                "producto": "Smartphone Samnsung Galaxy S21",
+                "Precio": 799.99,
+                "Disponible": True,
+                "categorias":["Electroniica", "Moviles", "Smartphones"],
+                "Specificaciones":{
+                    "Procesador": "Exynos 2100",
+                    "Almacenamiento": "128GB",
+                    "Pantalla": "6.2 Pulgadas",
+                    "Bateria": "4000 mAh"
+            },
+            "Fecha_Creacion": " gmmgmdgm"
+            "Reviews":[
+                {
+                        "Usuario": "Clarita_mi_Real",
+                        "Comentario": "DANNA_ mi_Real"
+                }
+            ]
+    }
+}
